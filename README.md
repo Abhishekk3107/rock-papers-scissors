@@ -80,8 +80,7 @@ Contributions are welcome! If you have any ideas, suggestions, or improvements, 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
+This project is licensed under no license. You are free to use, modify, and distribute this project as you wish.
 ---
 
 Made with ❤️ by [Abhishekk3107](https://github.com/Abhishekk3107)
